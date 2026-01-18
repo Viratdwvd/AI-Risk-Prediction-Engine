@@ -5,7 +5,20 @@ This project builds a **30–180 day history → 90 day risk** pipeline using yo
 - `Biochemical_parameters.csv`
 - `Diagnostics.csv`
 - `Glucose_measurements.csv` (big; processed in chunks into daily aggregates)
+⚠️ Dataset Availability Notice
 
+The datasets used in this project are NOT included in this repository.
+Reason
+
+The datasets used for this project:
+
+Are not publicly available
+
+Require explicit permission from the data provider to access
+
+Are very large in size (hundreds of MBs), exceeding GitHub’s file size limits
+
+For these reasons, the datasets cannot be uploaded or redistributed via this repository.
 ## Quick start
 
 1) Create a virtualenv and install requirements:
